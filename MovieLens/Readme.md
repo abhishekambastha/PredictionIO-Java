@@ -213,7 +213,7 @@ The eventserver then
 
 **Note** : Before Training, we need to specify , which application this instance is associated with , so we set the app_id parameter in datasourse.json before step 4.
 
-
+![image](https://raw.githubusercontent.com/abhishekambastha/PredictionIO-Java/master/MovieLens/images/instance.png)
  
 After the instance is deployed, an app can send query for recommendations and get results. The query can be send using http post, or any one of the SDK’s (Java, Python, Ruby or PHP).
 
