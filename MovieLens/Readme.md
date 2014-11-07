@@ -120,7 +120,7 @@ Pass the command line arguments 1 and ‘address of u.data on disk’.
 
 >	Click on the arguments tab, and provide the arguments , "(app_id)(address of u.data)"
 
-![image](http:/)
+![image](https://raw.githubusercontent.com/abhishekambastha/PredictionIO-Java/master/MovieLens/images/arguments.png)
 
 In our case, we are using app_id =1 and ~/ml-100k/u.data as arguments.  
 
@@ -184,10 +184,10 @@ This section is aimed to give a minimal understanding of PredictionIO and its AP
 
 PredictionIO runs with the help of Apache HBase, Apache Spark and Elasticsearch. So you installed them before starting !
 
-![image](http:/)
+![image](https://raw.githubusercontent.com/abhishekambastha/PredictionIO-Java/master/MovieLens/images/pIOsetup.png)
 
  
-![image](http:/)
+![image](https://raw.githubusercontent.com/abhishekambastha/PredictionIO-Java/master/MovieLens/images/pIOrunning.png)
 	
 
 when we run 
