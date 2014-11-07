@@ -1,4 +1,4 @@
-###MOVIE RECOMMENDATION APP USING JAVA-SDK (From Eclipse IDE)
+##MOVIE RECOMMENDATION APP USING JAVA-SDK (From Eclipse IDE)
 
 This tutorial uses the MovieLens dataset , to make a movie recommendation application in Java.
 
@@ -44,7 +44,7 @@ If you haven’t installed PredictionIO, you can install a minimal setup which c
 _Refer to installation page for more details._
 
 
-**Lets Begin.**  
+###Lets Begin
 Download
 
  * ImportData.java
